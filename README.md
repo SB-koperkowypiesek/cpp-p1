@@ -45,7 +45,7 @@ Popyt na produkty równy jest iloczynowi liczby marketerów i stałej `CMkt`.
 
 ### Sprzedaż produktów
 Sprzedaż odbywa się wg. następującego schematu:
-1. Teoretycznie możliwa iczba wyprodukowanych w danym miesiącu produktów równa jest iloczynowi liczby robotników i stałej `CR`.
+1. Teoretycznie możliwa liczba wyprodukowanych w danym miesiącu produktów równa jest iloczynowi liczby robotników i stałej `CR`.
 2. Liczba faktycznie wyprodukowanych w danym miesiącu produktów równa jest mniejszej z wartości: pojemność magazynu, teoretycznie możliwa liczba wyprodukowanych produktów.
 3. Liczba sprzedanych w danym miesiącu produktów równa jest mniejszej z wartości: popyt, liczba faktycznie wyprodukowanych produktów.
 4. Przychód firmy równy jest iloczynowi liczby sprzedanych produktów i ceny produktu.
